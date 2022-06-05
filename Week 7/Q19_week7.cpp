@@ -1,7 +1,7 @@
 /*
-Name : Dheeraj Soni
-University Roll NO : 2017323
-Section : CE
+Name : Aditya Padha
+University Roll NO : 2016589
+Section : C
 Problem Statement : After end term examination, Akshay wants to party with his friends. All his friends are living as
 paying guest and it has been decided to first gather at Akshay’s house and then move towards
 party location. The problem is that no one knows the exact address of his house in the city. 
